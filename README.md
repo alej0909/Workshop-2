@@ -4,6 +4,8 @@ Welcome to this exciting project! Here, we're building an ETL (Extract, Transfor
 
 ## 🌟 What’s Inside?
 
+![Diagram](./data/Workshop2 diagram.png)
+
 - **ETL Pipeline:** Extracts data from a CSV and a PostgreSQL database, processes it, merges it, and then saves it both in a CSV file on Google Drive and loads it into a database.
 - **Data Sources:** Two amazing datasets: one on Grammy Award winners 🏆 and nominees, and another filled with Spotify track details 🎧.
 - **Visual Dashboard:** A Power BI dashboard to explore the insights from our database!

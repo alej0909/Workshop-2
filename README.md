@@ -1,6 +1,6 @@
 # 🎶 Workshop-02: Spotify and Grammy Awards by Manuel Gruezo 🏆
 
-Welcome to this exciting project! Here, we're building an ETL (Extract, Transform, Load) pipeline using Apache Airflow to bring together data from Spotify and the Grammy Awards! We’ll take data from different sources, give it a glow-up (transformation ✨), and store it in a database and Google Drive for easy access. A cool dashboard in Power BI will help visualize all that sweet data! 🚀
+Welcome to this exciting project! Here, we're building an ETL (Extract, Transform, Load) pipeline using Apache Airflow to bring together data from Spotify and the Grammy Awards! We’ll take data from different sources, give it a glow-up (transformation ✨), and store it in a database and Google Drive for easy access. A cool dashboard in Power BI will help visualize all that data! 🚀
 
 ## 🌟 What’s Inside?
 
